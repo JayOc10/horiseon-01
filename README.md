@@ -1,4 +1,11 @@
-Horison-01 Refactoring Challange
+# Horison-01 Description
+___________________________________
 
-Description
+The challange is to refactor existing code in HTML and CSS.
+
+
+## Acceptance Criteria
+___________________________________
+* Meet webpage standards
+
 
