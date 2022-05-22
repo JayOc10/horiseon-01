@@ -20,7 +20,11 @@ ___________________________________
 *
 ### Website Link
 _______________________________
+GitHub Link:
+https://github.com/JayOc10/horiseon-01
 
+Live URL:
+https://jayoc10.github.io/horiseon-01/
 
 
 
