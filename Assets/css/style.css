@@ -45,8 +45,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
-p {
+/*renamed the p to figcaption*/
+figcaption {
     font-size: 16px;
 }
 
@@ -112,6 +112,7 @@ img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    max-height: 200px;
 }
 
 .search-engine-optimization {
@@ -152,18 +153,8 @@ img {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/*Removed multiple classes that contained h2*/
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
