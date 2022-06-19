@@ -1,30 +1,40 @@
-# Horison-01 Description
-_______________________________
+# Horison-01 
 
-The challange is to refactor existing code in HTML and CSS.
+
+## Description
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
 
 ## Acceptance Criteria
-___________________________________
-* Meet webpage standards
-*
-*
-*
-*
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
 
-## Work Completed
-___________________________________
-* Added attributes to the existing images.
-*
-*
-*
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+
+
 ### Website Link
-_______________________________
+
 GitHub Link:
 https://github.com/JayOc10/horiseon-01
 
 Live URL:
 https://jayoc10.github.io/horiseon-01/
 
-
+C:\Users\Jeato\Desktop\ucla-bootcamp\homework\challange-01\horiseon-01\Assets\01-html-css-git-homework-demo.png
 
